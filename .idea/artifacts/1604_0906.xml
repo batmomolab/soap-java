@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="1604-0906">
+    <output-path>$PROJECT_DIR$/out/artifacts/1604_0906</output-path>
+    <root id="archive" name="1604-0906.war">
+      <element id="module-output" name="TrouveTonTrain" />
+      <element id="javaee-facet-resources" facet="TrouveTonTrain/web/Web" />
+    </root>
+  </artifact>
+</component>

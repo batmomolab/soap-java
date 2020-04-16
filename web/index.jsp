@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Calcul de Distance</title>
   </head>
   <body>
-  $END$
+  This is the hogwart express yeah !
   </body>
 </html>
