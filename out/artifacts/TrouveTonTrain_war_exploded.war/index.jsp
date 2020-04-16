@@ -11,12 +11,6 @@
     <title>Calcul de Distance</title>
   </head>
   <body>
-  <form action="servlet1" method="post">
-      Longitude A:<input type="number" name="A1"/><br/>
-      Lattitude A:<input type="number" name="A2"/><br/>
-      Longitude B:<input type="number" name="B1"/><br/>
-      Lattitude B:<input type="number" name="B2"/><br/>
-      <input type="submit">
-  </form>
+  This is the hogwart express yeah !
   </body>
 </html>

@@ -21,7 +21,12 @@ public class CalculDistance {
         //passage du rayon en degrees
         rayon = Math.toDegrees(rayon);
         double resultat = rayon * 60 * 1.1515 * 1.609344;
+        resultat = Math.round(resultat);
         System.out.println(resultat);
         return resultat;
+    }
+
+    public static void main(String[] args) {
+
     }
 }

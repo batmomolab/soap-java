@@ -5,5 +5,5 @@
     <endpoint
             name='CalculDistance'
             implementation='SOAP.CalculDistance'
-            url-pattern='/'/>
+            url-pattern='/services/CalculDistance'/>
 </endpoints>
