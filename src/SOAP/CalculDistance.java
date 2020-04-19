@@ -7,7 +7,7 @@ import javax.xml.ws.Endpoint;
 @WebService()
 public class CalculDistance {
     @WebMethod
-    public Double retourneDistance(Double longitude_A, Double longitude_B, Double latitude_A, Double latitude_B) {
+    public Double retourneDistance(Double latitude_A, Double longitude_A, Double latitude_B, Double longitude_B ) {
         //passage en radians des variables qui sont passe en parametres de methode.
         longitude_A = Math.toRadians(longitude_A);
         longitude_B = Math.toRadians(longitude_B);
